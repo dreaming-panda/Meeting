@@ -30,10 +30,7 @@ Diary_AIR_SCC tsinghua 2020/8/3
 # 2 重新选取调度任务,完善论文motivation部分的配图.
 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
